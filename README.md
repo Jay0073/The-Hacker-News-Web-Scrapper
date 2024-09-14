@@ -25,7 +25,7 @@ cd hacker-news-scraper-gui
 pip install -r requirements.txt
 ```
 
-# Usage
+# How to use
 1. **Run the application:**
 
 ```
@@ -53,6 +53,3 @@ python main.py
 
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-# License
-
-This Project is licensed under the MIT License.
