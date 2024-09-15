@@ -16,8 +16,8 @@ This project is a Python-based web scraper that extracts the latest news article
 1. **Clone the Repository:**
 
 ```python
-git clone https://github.com/Jay0073/The-Hacker-News-Web-Scraper.git
-cd hacker-news-scraper-gui
+git clone https://github.com/Jay0073/The-Hacker-News-Web-Scrapper.git
+cd The-Hacker-News-Web-Scrapper
 ```
 
 2. **Install the required dependencies:**
