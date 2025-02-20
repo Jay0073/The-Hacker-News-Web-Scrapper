@@ -1,4 +1,4 @@
-# The Hacker News Scraper Gui
+# The Hacker News Scraper GUI
 
 This project is a Python-based web scraper that extracts the latest news articles from the Hacker News website and displays them in a user-friendly graphical interface. It utilizes the requests library to fetch web content and BeautifulSoup for parsing HTML. The GUI is built using customtkinter, making it easy to navigate and read the news directly from the application.
 
